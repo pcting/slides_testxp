@@ -1,5 +1,8 @@
-# My Testing Experience
+# __My Testing Experience__
 
-## By Patrick Ting
-## OneScreen
-## August 23, 2012
+<div class="footer" markdown="1">
+### By Patrick Ting
+### OneScreen
+### August 23, 2012
+### _Version 0.1_
+</div>

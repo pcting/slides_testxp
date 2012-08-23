@@ -1,4 +1,4 @@
-# Make Them With Simple Goals
+# Make Them With __Simple Goals__
 <div class="left" markdown="1">
   ![Maze](images/maze.jpg)
 </div>

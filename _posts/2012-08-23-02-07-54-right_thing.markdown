@@ -1,4 +1,4 @@
-# Make Them Test The Right Thing
+# Make Them Test The __Right Thing__
 <div class="left" markdown="1">
   ![Do the right thing](images/do_the_right_thing.jpg)
 </div>

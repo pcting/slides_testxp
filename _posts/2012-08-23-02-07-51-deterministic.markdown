@@ -1,4 +1,4 @@
-# Make Them Deterministic
+# Make Them __Deterministic__
 <div class="left" markdown="1">
   ![You no fail locally but fail on build server?](images/why_fail_on_build_server.jpg)
 </div>

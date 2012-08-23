@@ -31,6 +31,10 @@ a.eval {
   margin: .2em .4em 0 0;
 }
 
+strong {
+  color: #f00;
+}
+
 /** Overview screen */
 .overview .slide {
   -moz-border-radius: 2em;
