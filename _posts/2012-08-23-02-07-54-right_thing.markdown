@@ -6,11 +6,11 @@
 ### What not to do
 * Don't test impossible cases
 * Don't test untestable code
-* Do not test 3rd party services/libraries
+* Do not test 3rd party libs/apis
 <br />
 ### What to do
 * Ensure correctness!
 * Test core behavior
-* Setup clean environment per test
-* Mock 3rd party services/libraries
+* Clean environment for each test
+* Mock 3rd party libs/apis
 </div>
