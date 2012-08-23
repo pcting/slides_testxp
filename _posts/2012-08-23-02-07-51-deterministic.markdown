@@ -3,9 +3,12 @@
   ![You no fail locally but fail on build server?](images/why_fail_on_build_server.jpg)
 </div>
 <div class="right" markdown="1">
+### Why?
+* Unpredictability = hard to test
+<br />
 ### Problem?
-* Local references
+* Unable to inject dependenies
 * Time
 * External services
-* Incorrect state
+* State
 </div>

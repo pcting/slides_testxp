@@ -1,7 +1,7 @@
 ## How to Start?
-* Focus on testing the most important parts of your code
-* When you encounter a bug, write a test
-* When you're unsure of what happens in a section of code, write a test
-* When short on time, work more on end-to-end tests
-* When you have plenty of time, work more on unit tests
-* When you have free time, write any test
+* Focus on testing the most important parts of your code.
+* When you encounter a bug, write a test for it.
+* When you're unsure of what happening in code, write a test to explain it.
+* When short on time, work more on end-to-end tests.
+* When you have plenty of time, work more on unit tests.
+* When you have free time, write any test.

@@ -4,13 +4,14 @@
 </div>
 <div class="right" markdown="1">
 ### What not to do
-* Don't test impossible cases
-* Don't test untestable code
+* Don't test code you don't understand
 * Do not test 3rd party libs/apis
+* Spend less time on impossible cases
 <br />
 ### What to do
 * Ensure correctness!
+* Start clean for each test
 * Test core behavior
-* Clean environment for each test
 * Mock 3rd party libs/apis
+* Make tests portable
 </div>

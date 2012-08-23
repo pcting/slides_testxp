@@ -1,8 +1,8 @@
 ## How I Feel About Tests Now
 * I __cannot__ live without some form of automated testing.
-* Testing consumes a lot of time. Automating testing consumes a lot of time upfront, but pays off in the long run.
-* It's hard to write good tests.
-* Automated tests are useful until you discover that you're doing it all wrong.
-* You must fix your tests as soon as they break.
-* Don't stop writing automated tests until you have confidence in your test suite.
-* Make sure the tests run in a reasonable amount of time.
+* Testing consumes a lot of __time__. Automating testing consumes a lot of time upfront, but pays off in the long run.
+* It's __hard__ to write good tests.
+* Automated tests are useful until you discover that you're doing it all __wrong__.
+* You must __fix__ your tests as soon as they break.
+* Don't stop writing automated tests until you have __confidence__ in your test suite.
+* Make sure the tests run in a __reasonable__ amount of time.
