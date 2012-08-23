@@ -14,15 +14,15 @@
 
 /** Core */
 body, html {
-  background: #fff;
-  color: #000;
+  background: #000;
+  color: #fff;
   overflow: hidden;
   height: 100%;
 }
 
 a:visited, a:active, a:link, a {
   cursor: pointer;
-  color: #622;
+  color: #f33;
 }
 
 a.eval {
@@ -109,7 +109,7 @@ pre {
 }
 
 code {
-  color: grey;
+  color: #333;
 }
 
 .footer {

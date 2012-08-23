@@ -1,8 +1,9 @@
 # __My Testing Experience__
 
 <div class="footer" markdown="1">
+#### [https://github.com/pcting/slides_testxp](https://github.com/pcting/slides_testxp)
 ### By Patrick Ting
 ### OneScreen
 ### August 23, 2012
-### Version 0.1.4
+### Version 0.1.6
 </div>

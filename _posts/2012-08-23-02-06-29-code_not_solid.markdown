@@ -1,4 +1,4 @@
-## My code isn't solid!
+## My code __isn't__ solid!
 <div class="center" markdown="1">
   ![Server Down... Impossible](images/server_down_impossible.jpg)
 </div>

@@ -1,4 +1,4 @@
-## There's no time! Leeroy Jenkins!
+## There's __no time__ for tests!
 <div class="center" markdown="1">
   ![Unit test? Get out of my way](images/get_out_of_my_way.jpg)
 </div>

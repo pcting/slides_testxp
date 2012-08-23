@@ -1,4 +1,4 @@
-## I wrote only solid code!
+## I wrote only __solid__ code!
 <div class="center" markdown="1">
   ![Untested code? Git push production master](images/git_push_production_master.jpg)
 </div>
