@@ -1,8 +1,8 @@
-title: change title
-author: change author
-email: change email
-venue: change venue
-date: change date
+title: My Testing Experience
+author: Patrick Ting
+email: pcting@gmail.com
+venue: OneScreen Inc.
+date: 8/23/2012
 
 auto: on
 pygments: true
