@@ -158,6 +158,10 @@ p {
   right: 0;
 }
 
+.slide .description {
+  width: 550px;
+}
+
 ol, ul {
   list-style: disc outside none;
   margin-left: 2em;

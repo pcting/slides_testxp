@@ -2,7 +2,7 @@
 <div class="left" markdown="1">
   ![Do the right thing](images/do_the_right_thing.jpg)
 </div>
-<div class="right" markdown="1">
+<div class="right description" markdown="1">
 ### What not to do
 * Don't test code you don't understand
 * Do not test 3rd party libs/apis

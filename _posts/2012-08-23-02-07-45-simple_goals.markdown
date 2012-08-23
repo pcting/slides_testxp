@@ -2,10 +2,15 @@
 <div class="left" markdown="1">
   ![Maze](images/maze.jpg)
 </div>
-<div class="right" markdown="1">
+<div class="right description" markdown="1">
 ### Why?
 * Easy to understand
 * Easy to verify
 * Easy to write
 * Easy to maintain
+<br />
+### Problem?
+* Requirements are hard to get
+* Code with long workflows are not simple to test
+* Complex code is not simple
 </div>
