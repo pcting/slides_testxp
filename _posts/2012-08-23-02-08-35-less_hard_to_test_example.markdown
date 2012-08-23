@@ -17,7 +17,7 @@
       // ... and still test deterministically
       public Entity find(int id, Date d) {
         if (d.getTime() % 60000 >= 30000) {
-          return repo.getEntity(id, d, true);
+          return repo.getEntity(id, d);
         } else {
           return null;
         }
