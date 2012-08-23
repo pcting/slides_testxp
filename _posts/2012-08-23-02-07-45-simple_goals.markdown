@@ -11,6 +11,5 @@
 <br />
 ### Problem?
 * Requirements are hard to get
-* Code with long workflows are not simple to test
-* Complex code is not simple
+* Hard to make tests simple with complex code
 </div>

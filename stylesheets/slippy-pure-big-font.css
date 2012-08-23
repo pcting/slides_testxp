@@ -106,10 +106,11 @@ h4 {
 
 pre {
   font-family: Menlo, "Courier New", Courier, fixed, sans-serif;
+  padding: 2em;
 }
 
 code {
-  color: #333;
+  color: #000;
 }
 
 .footer {

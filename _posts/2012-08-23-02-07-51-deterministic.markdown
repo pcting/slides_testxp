@@ -7,7 +7,7 @@
 * Unpredictability = hard to test
 <br />
 ### Problem?
-* Unable to inject dependenies
+* Unable to inject dependencies
 * Time
 * External services
 * State
