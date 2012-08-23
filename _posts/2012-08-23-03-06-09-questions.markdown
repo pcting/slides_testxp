@@ -1,5 +1,12 @@
 # Questions?
 ### (Ask now)
+<br />
+<br />
+<br />
+<br />
+<br />
+#### These slides have been open-sourced and are available @ [https://github.com/pcting/slides_testxp](https://github.com/pcting/slides_testxp)
+
 <div class="footer" markdown="1">
 ### _I created these slides with [jekyll and hyde](https://github.com/jingweno/jekyll_and_hyde)_
 </div>

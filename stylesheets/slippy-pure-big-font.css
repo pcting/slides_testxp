@@ -91,6 +91,14 @@ h3 {
   font-size: 1.5em;
 }
 
+h4 {
+  text-align: center;
+  margin-bottom: .25em;
+  font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  font-size: 1.2em;
+}
+
 .licence {
   margin-top: 2em;
   text-align: center;
