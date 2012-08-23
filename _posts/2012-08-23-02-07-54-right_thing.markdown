@@ -1,0 +1,16 @@
+# Make Them Test The Right Thing
+<div class="left" markdown="1">
+  ![Do the right thing](images/do_the_right_thing.jpg)
+</div>
+<div class="right" markdown="1">
+### What not to do
+* Don't test impossible cases
+* Don't test untestable code
+* Do not test 3rd party services/libraries
+<br />
+### What to do
+* Ensure correctness!
+* Test core behavior
+* Setup clean environment per test
+* Mock 3rd party services/libraries
+</div>

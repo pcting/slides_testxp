@@ -1,0 +1,4 @@
+## Conclusion?
+<div class="center" markdown="1">
+  ![I'm not saying you have to test, but you have to test](images/im_saying_you_need_to_test.jpg)
+</div>

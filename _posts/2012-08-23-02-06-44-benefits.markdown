@@ -1,0 +1,7 @@
+# Benefits
+* Discover problems upfront
+* Eases refactoring
+* Tests are documentation
+* Helps identify bad design
+* Reduce regression bugs
+* Reduce code change fears!

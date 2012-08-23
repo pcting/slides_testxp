@@ -5,7 +5,7 @@
  *
  * Licensed under the new BSD License
  * See the LICENSE file for details
- * 
+ *
  * Theme from https://github.com/kerryb/iprug-rspec-presentation/blob/gh-pages/slippy-kerryb.css.
  */
 /**
@@ -79,6 +79,14 @@ h2 {
   font-size: 2.5em;
 }
 
+h3 {
+  text-align: center;
+  margin-bottom: .25em;
+  font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue Condensed Black', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  font-size: 1.5em;
+}
+
 .licence {
   margin-top: 2em;
   text-align: center;
@@ -109,7 +117,7 @@ blockquote {
 p, ul, ol {
   font-family: 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: normal;
-  font-size: 1.8em;
+  font-size: 1.3em;
 }
 
 p {
@@ -149,7 +157,7 @@ ol {
 
 li {
   margin-top: 0.5em;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 /** References links */

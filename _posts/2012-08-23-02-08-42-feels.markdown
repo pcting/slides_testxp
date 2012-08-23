@@ -1,0 +1,7 @@
+## How I Feel About Tests Now
+* It's time consuming
+* It's hard to write
+* It's useful until you discover you're doing it all wrong
+* You must fix your tests as soon as they break
+* You must hHave confidence in your tests
+* Make sure they run in a reasonable amount of time

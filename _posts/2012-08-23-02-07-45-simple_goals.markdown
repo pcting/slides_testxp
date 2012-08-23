@@ -1,0 +1,11 @@
+# Make Them With Simple Goals
+<div class="left" markdown="1">
+  ![Maze](images/maze.jpg)
+</div>
+<div class="right" markdown="1">
+### Why?
+* Easy to understand
+* Easy to verify
+* Easy to write
+* Easy to maintain
+</div>

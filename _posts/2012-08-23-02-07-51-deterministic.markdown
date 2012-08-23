@@ -1,0 +1,11 @@
+# Make Them Deterministic
+<div class="left" markdown="1">
+  ![You no fail locally but fail on build server?](images/why_fail_on_build_server.jpg)
+</div>
+<div class="right" markdown="1">
+### Problem?
+* Local references
+* Time
+* External services
+* Incorrect state
+</div>
