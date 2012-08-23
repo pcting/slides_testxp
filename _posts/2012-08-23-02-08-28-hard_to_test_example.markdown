@@ -6,7 +6,11 @@
 
       public Entity find(int id) {
         Date d = Date.now();
-        return repo.getEntity(id, d);
+        if (d.getTime() % 60000 >= 30000) {
+          return repo.getEntity(id, d, true);
+        } else {
+          return null;
+        }
       }
 
     }
